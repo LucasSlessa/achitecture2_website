@@ -28,5 +28,5 @@ The website uses the `<canvas>` element to create interactive graphics, such as 
 
 ## Contact
 
-If you have any questions or suggestions, please contact us at contact@example.com.
+If you have any questions or suggestions, please contact us
 
